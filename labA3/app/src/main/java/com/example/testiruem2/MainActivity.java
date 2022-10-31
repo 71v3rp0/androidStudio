@@ -92,5 +92,9 @@ public class MainActivity extends Activity {
         super.onRestart();
         Log.i("AppLogger", "Переопределение onRestart у MainActivity");
     }
+<<<<<<< HEAD
 
+=======
+//
+>>>>>>> lab3
 }
