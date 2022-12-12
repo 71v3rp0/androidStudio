@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e136cb71-759c-4753-8b2d-2e11b02f693b" name="Changes" comment="5 lab merge">
+      <change beforePath="$PROJECT_DIR$/tests_edited/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/Android Studio.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/Far Manager 3 (x86).lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/androidTest/java/com/example/myapplication/testiruem2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/AdminActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/ChangePass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/DBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/HomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/SQLbase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/SecActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/java/com/example/testiruem2/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/activity_admin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/dialog_table.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/reg_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/layout/signin_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/menu/menu_change.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/xml/admin_activity_base.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/app/src/test/java/com/example/testiruem2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/androidTest/java/com/example/lab1/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/app/src/test/java/com/example/lab1/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/lab1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests_edited/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FdJ6jTYtnCuXJJbXH1NNaUzX0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="ToolWindowGit.ShowToolbar" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e136cb71-759c-4753-8b2d-2e11b02f693b" name="Changes" comment="" />
+      <created>1664815853555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664815853555</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab2 init">
+      <created>1664816924318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664816924318</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab2 commit 23 10 22 сделал селект и анселект ол">
+      <created>1666539840935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666539840935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab3 commit">
+      <created>1667230612250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667230612250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab3 branch name changed">
+      <created>1667230967874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667230967874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab3 commit">
+      <created>1667231244460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667231244461</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lab3 commit branch name changes">
+      <created>1667231791661</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667231791661</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lab3 deleted from main">
+      <created>1667231938424</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667231938424</updated>
+    </task>
+    <task id="LOCAL-00008" summary="txt doc deleted">
+      <created>1667232241293</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667232241293</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3 lab added">
+      <created>1667232444963</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667232444963</updated>
+    </task>
+    <task id="LOCAL-00010" summary="4 lab commit">
+      <created>1667834291567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667834291567</updated>
+    </task>
+    <task id="LOCAL-00011" summary="5 lab commit">
+      <created>1670858531164</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670858531164</updated>
+    </task>
+    <task id="LOCAL-00012" summary="5 lab merge">
+      <created>1670858962442</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670858962442</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab2 init" />
+    <MESSAGE value="lab2 commit 23 10 22 сделал селект и анселект ол" />
+    <MESSAGE value="lab3 branch name changed" />
+    <MESSAGE value="lab3 commit" />
+    <MESSAGE value="deleted lab3" />
+    <MESSAGE value="lab3 commit branch name changes" />
+    <MESSAGE value="lab3 deleted from main" />
+    <MESSAGE value="txt doc deleted" />
+    <MESSAGE value="3 lab added" />
+    <MESSAGE value="4 lab commit" />
+    <MESSAGE value="6 lab commit" />
+    <MESSAGE value="5 lab commit" />
+    <MESSAGE value="5 lab merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 lab merge" />
+  </component>
+</project>
