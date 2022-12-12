@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/admin_activity_base"
+    tools:context=".AdminActivity">
+
+    <TextView
+        android:id="@+id/curUN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="13dp"
+        android:text="Oleg"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <EditText
+        android:id="@+id/adm_acc_entrie"
+        android:layout_width="358dp"
+        android:layout_height="48dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="36dp"
+        android:hint="Введите имя пользователя"
+        android:textColorHint="#757575" />
+
+
+    <ListView
+        android:id="@+id/acc_table"
+        android:layout_width="300dp"
+        android:layout_height="388dp"
+        android:layout_below="@+id/adm_del"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:choiceMode="multipleChoice" />
+
+    <Button
+        android:id="@+id/adm_del"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/adm_acc_entrie"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:onClick="removeAccount"
+        android:text="delete" />
+
+</RelativeLayout>
